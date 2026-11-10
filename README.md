@@ -645,7 +645,7 @@ This project was created for educational purposes as part of Northeastern Univer
 
 - Email: vejandla.03@gmail.com
 - LinkedIn: [linkedin.com/in/bhavya-teja-vejandla](https://linkedin.com/in/bhavya-teja-vejandla)
-- GitHub: [github.com/tejahub-1412](https://github.com/tejahub-1412)
+- GitHub: [github.com/teja1412-hub](https://github.com/teja1412-hub)
 
 ---
 
